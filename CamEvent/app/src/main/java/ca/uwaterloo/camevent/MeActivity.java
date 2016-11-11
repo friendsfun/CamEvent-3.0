@@ -135,7 +135,7 @@ public class MeActivity extends AppCompatActivity
     }
     private void goToPostActivity() {
         //jump to second activity
-        Intent intent = new Intent(this, RegisterActivity.class);
+        Intent intent = new Intent(this, SignInActivity.class);
         startActivity(intent);
         this.finish();
 
