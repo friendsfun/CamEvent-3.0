@@ -41,4 +41,8 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="title_activity_event_dbtest">EventDBTest</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="hint_password">password</string>
+    <string name="hint_email">email</string>
+    <string name="sign_in">Sign In</string>
 </resources>
